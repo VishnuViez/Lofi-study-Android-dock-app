@@ -76,4 +76,4 @@ class TimerControllerTest {
         assertEquals(1, stops)
         assertEquals(Phase.Idle, timers.timer.value.phase)
     }
-}
+} 
