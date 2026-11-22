@@ -188,4 +188,4 @@ class DockSettingsLogicTest {
         assertEquals(0.46393086567689479, SceneRandom.unit(123, 52), 0.0)
         assertEquals(0.58672810159037614, SceneRandom.unit(-5, 3), 0.0)
     }
-}
+} 
