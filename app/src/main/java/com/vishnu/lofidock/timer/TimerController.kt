@@ -94,4 +94,4 @@ class TimerController(
         val running = _timer.value.phase as? CountdownTimer.Phase.Running ?: return
         alarms.schedule(running.endsAt, _timer.value.lengthSeconds, muted)
     }
-}
+} 
