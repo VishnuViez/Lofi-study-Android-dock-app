@@ -58,4 +58,4 @@ data class CountdownTimer(val lengthSeconds: Double = 0.0, val phase: Phase = Ph
         if (lengthSeconds <= 0) return 0.0
         return min(1.0, max(0.0, remainingSeconds(now) / lengthSeconds))
     }
-}
+} 
