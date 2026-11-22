@@ -62,4 +62,4 @@ class LofiDreamService : DreamService(), LifecycleOwner, SavedStateRegistryOwner
         lifecycleRegistry.handleLifecycleEvent(Lifecycle.Event.ON_DESTROY)
         super.onDetachedFromWindow()
     }
-}
+} 
