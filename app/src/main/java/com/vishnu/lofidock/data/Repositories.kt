@@ -104,4 +104,4 @@ class ChecklistRepository(private val store: DataStore<Preferences>, private val
     fun toggle(id: String) = change { it.toggle(id) }
     fun remove(id: String) = change { it.remove(id) }
     fun clearDone() = change { it.clearDone() }
-}
+} 
