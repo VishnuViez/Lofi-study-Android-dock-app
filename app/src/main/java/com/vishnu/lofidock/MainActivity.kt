@@ -38,4 +38,4 @@ class MainActivity : ComponentActivity() {
             hide(WindowInsetsCompat.Type.systemBars())
         }
     }
-}
+} 
