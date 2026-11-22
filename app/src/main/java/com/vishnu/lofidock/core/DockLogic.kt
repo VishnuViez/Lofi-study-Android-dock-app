@@ -101,4 +101,4 @@ object SceneRandom {
         z = z xor (z ushr 31)
         return (z ushr 11).toDouble() / (1L shl 53).toDouble()
     }
-}
+} 
