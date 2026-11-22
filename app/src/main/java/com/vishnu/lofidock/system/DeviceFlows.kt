@@ -73,4 +73,4 @@ private fun PowerManager.thermal(): Thermal {
         PowerManager.THERMAL_STATUS_SEVERE -> Thermal.SERIOUS
         else -> Thermal.CRITICAL
     }
-}
+} 
