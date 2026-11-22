@@ -85,4 +85,4 @@ class ChecklistTest {
         assertEquals(Checklist(), Checklist.fromJson("{not json"))
         assertEquals(Checklist(), Checklist.fromJson(null))
     }
-}
+} 
