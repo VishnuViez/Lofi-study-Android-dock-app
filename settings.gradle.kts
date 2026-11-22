@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "LofiDock"
-include(":app")
+include(":app") 
