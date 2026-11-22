@@ -60,4 +60,4 @@ data class Checklist(val items: List<ChecklistItem> = emptyList()) {
             }.getOrDefault(Checklist())
         }
     }
-}
+} 
