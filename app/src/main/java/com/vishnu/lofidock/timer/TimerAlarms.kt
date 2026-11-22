@@ -115,4 +115,4 @@ object TimerNotifications {
             .build()
         NotificationManagerCompat.from(context).notify(ID, notification)
     }
-}
+} 
