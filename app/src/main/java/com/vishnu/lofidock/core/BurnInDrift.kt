@@ -22,4 +22,4 @@ object BurnInDrift {
             y = amplitude * 0.6f * sin(angle * 2).toFloat(),
         )
     }
-}
+} 
