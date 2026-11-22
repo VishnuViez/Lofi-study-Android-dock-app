@@ -255,4 +255,4 @@ fun TimerChip(timer: CountdownTimer, now: Long, onClick: () -> Unit, modifier: M
             style = TextStyle(color = tint, fontSize = 14.sp, fontWeight = FontWeight.SemiBold, fontFeatureSettings = "tnum"),
         )
     }
-}
+} 
