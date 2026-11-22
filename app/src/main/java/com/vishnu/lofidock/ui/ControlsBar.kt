@@ -110,4 +110,4 @@ private fun BarButton(icon: ImageVector, tint: Color, label: String, state: Stri
     ) {
         Icon(icon, null, Modifier.size(20.dp), tint = tint)
     }
-}
+} 
