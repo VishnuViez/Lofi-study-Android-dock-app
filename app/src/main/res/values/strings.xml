@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lofi Dock</string>
+    <string name="timer_channel">Timer</string>
+    <string name="timer_channel_silent">Timer (muted)</string>
+</resources>
