@@ -254,4 +254,4 @@ private fun Summary(now: Long, sessionSeconds: Double, list: Checklist, d: Dims,
             Text(TimeFormatting.session(sessionSeconds), Modifier.alignByBaseline(), style = lofiText(d.sp(18f), FontWeight.Normal))
         }
     }
-}
+} 
