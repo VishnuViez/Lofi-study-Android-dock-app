@@ -71,4 +71,4 @@ notification sound.
 
 Differences from iOS, by platform: Roboto stands in for SF Rounded; the
 "open on charge" tip is the built-in screen saver instead of a Shortcuts
-automation; wheels are a custom snapping list (Android has no wheel picker).
+automation; wheels are a custom snapping list (Android has no wheel picker). 
