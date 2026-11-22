@@ -328,4 +328,4 @@ fun FlipCard(text: String, corner: String?, d: Dims) {
             )
         }
     }
-}
+} 
