@@ -13,4 +13,4 @@ ADB=${SDK:+$SDK/platform-tools/}adb
 "$ADB" install -r app/build/outputs/apk/release/app-release.apk
 "$ADB" shell am start -n com.vishnu.lofidock/.MainActivity
 # The Gradle daemon holds ~1 GB; on a Mac short of memory that becomes swap.
-./gradlew --stop -q
+./gradlew --stop -q 
