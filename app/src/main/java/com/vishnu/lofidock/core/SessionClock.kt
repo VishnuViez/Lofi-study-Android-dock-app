@@ -28,4 +28,4 @@ class SessionClock(now: Long = System.currentTimeMillis()) {
         leftApp = false
         _startedAt.value = now
     }
-}
+} 
