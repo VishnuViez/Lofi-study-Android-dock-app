@@ -178,4 +178,4 @@ private class OnePole(cutoff: Float, sampleRate: Float) {
 private fun softClip(x: Float): Float {
     val c = x.coerceIn(-3f, 3f)
     return c * (27f + c * c) / (27f + 9f * c * c)
-}
+} 
